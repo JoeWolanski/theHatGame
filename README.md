@@ -11,3 +11,4 @@ The team with the most guessed items after three full rounds wins.
 
 ### Rules
 #### Setup
+This is a test I can add items in sudo and puch them to github

@@ -1,6 +1,8 @@
 # theHatGame
 The Hat Game: Covid-19 edition
 
+Example file: https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/ (Connect to the datasbase)
+
 ## Summary
 The Hat Game: Covid-19 edition is a form of the original hat game created for online use with friends quarantined at home. In combination with standard video chat services (eg Google Hangout) players can use this web application to play the Hat Game wiht their friends and family.
 

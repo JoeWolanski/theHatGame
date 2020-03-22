@@ -1,0 +1,28 @@
+{
+  "name": "theHatGame",
+  "version": "1.0.0",
+  "description": "The Hat Game: Covid-19 edition",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "nodemon": "^2.0.2",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch": "nodemon ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeWolanski/theHatGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeWolanski/theHatGame/issues"
+  },
+  "homepage": "https://github.com/JoeWolanski/theHatGame#readme"
+}
